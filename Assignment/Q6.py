@@ -6,7 +6,7 @@
 '''
 a=int(input("Enter value of a :"))
 b=int(input("Enter value of b :"))
-c
+temp=c
 
 c=a
 a=b
