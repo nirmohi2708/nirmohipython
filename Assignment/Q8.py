@@ -2,7 +2,7 @@
 
 aplha=str(input("Enter the alphabet for a1 :"))
 
-if alpha=a,e,i,o,u:
+if alpha==a alpha==e,alpha==i,alpha==o,alpha==u:
     print("The alphabet you entered is vowel")
 
 else:
