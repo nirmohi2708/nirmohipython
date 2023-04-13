@@ -1,9 +1,14 @@
 # WAP to check if the given value is vowel or not
 
-aplha=str(input("Enter the alphabet for a1 :"))
+vowels=['a','e','i','o','u','A','E','I','O','U']
 
-if alpha==a alpha==e,alpha==i,alpha==o,alpha==u:
+alpha=input("Enter the alphabet :")
+
+if alpha in vowels:
     print("The alphabet you entered is vowel")
 
 else:
     print("The alphabet you entered is consonent")
+
+
+
