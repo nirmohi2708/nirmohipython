@@ -18,26 +18,26 @@ def triangle(a,b):
 def rectangle(a,b):
     return 1/2*h*b
 
-choice=input("Enter choice number : ")
+choice=int(input("Enter choice number : "))
 
   
 
 if choice==1:
     r=int(input("Enter the radius value : "))
     pi=3.14
-    cir_ar=pi*r*r
+    #cir_ar=pi*r*r
     print("The area of the circle is :",circle(r,pi))
 
 elif choice==2:
     h=int(input("Enter the height :"))
     b=int(input("Enter the base :"))
-    tri_ar=1/2*h*b
+    #tri_ar=1/2*h*b
     print("The area of the triangle is :",triangle(h,b))
 
 elif choice==3:
     l=int(input("Enter the length :"))
     w=int(input("Enter the width :"))
-    rec_ar=l*b
+    #rec_ar=l*b
     print("The area of the rectangle is :",rectangle(l,b))
 
 else:
