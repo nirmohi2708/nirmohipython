@@ -1,0 +1,3 @@
+# Why Do You Use the Zip () Method in Python?
+
+Zip() function is used in python for pairing up two or more list, tuple,dictionary,set,function etc....
