@@ -16,7 +16,7 @@ def piz():
     def bur():
     def pani():
     def dos():
-'''
+
 status=True:
 while status:
 
@@ -100,7 +100,7 @@ elif choice==dosa:
 
 else:
     pass
-'''
+
 
 
 
